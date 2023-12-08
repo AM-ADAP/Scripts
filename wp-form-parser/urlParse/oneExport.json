@@ -1,0 +1,1041 @@
+[
+  {
+    "fields": {
+      "31": {
+        "label": "Layout",
+        "name": "Layout",
+        "description": "",
+        "label_hide": "1",
+        "size": "large",
+        "preset": "50-50",
+        "columns": [
+          {
+            "width_custom": "",
+            "width_preset": "50",
+            "fields": [10, 7, 8, 22]
+          },
+          { "width_custom": "", "width_preset": "50", "fields": [3, 4, 5, 24] }
+        ],
+        "id": "31",
+        "type": "layout"
+      },
+      "10": {
+        "id": "10",
+        "type": "select",
+        "label": "CAR YEAR",
+        "choices": {
+          "11": {
+            "label": "2007",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "12": {
+            "label": "2008",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "13": {
+            "label": "2009",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "14": {
+            "label": "2010",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "15": {
+            "label": "2011",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "16": {
+            "label": "2012",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "17": {
+            "label": "2013",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "18": {
+            "label": "2014",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "19": {
+            "label": "2015",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "20": {
+            "label": "2016",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "21": {
+            "label": "2017",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "22": {
+            "label": "2018",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "23": {
+            "label": "2019",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "24": {
+            "label": "2020",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "25": {
+            "label": "2021",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "26": {
+            "label": "2022",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "27": {
+            "label": "2023",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "description": "",
+        "required": "1",
+        "style": "classic",
+        "size": "large",
+        "placeholder": "CAR YEAR",
+        "dynamic_choices": "",
+        "css": "wpforms-one-half wpforms-first",
+        "label_hide": "1"
+      },
+      "7": {
+        "id": "7",
+        "type": "select",
+        "label": "CAR MAKE",
+        "choices": {
+          "1": {
+            "label": "Acura",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "Alfa Romeo",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "Aston Martin",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "20": {
+            "label": "Audi",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "19": {
+            "label": "Bentley",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "18": {
+            "label": "BMW",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "17": {
+            "label": "Buick",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "16": {
+            "label": "Cadillac",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "15": {
+            "label": "Chevrolet",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "14": {
+            "label": "Chrylser",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "13": {
+            "label": "Dodge",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "12": {
+            "label": "Ferrari",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "11": {
+            "label": "FIAT",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "Ford",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "Freightliner",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "Genesis",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "GMC",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "6": {
+            "label": "Honda",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "Hyundai",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "INFINITI",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "27": {
+            "label": "Jaguar",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "26": {
+            "label": "Jeep",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "25": {
+            "label": "Kia",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "24": {
+            "label": "Lamborghini",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "23": {
+            "label": "Land Rover",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "22": {
+            "label": "Lexus",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "21": {
+            "label": "Lincoln",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "45": {
+            "label": "Lotus",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "36": {
+            "label": "Maserati",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "35": {
+            "label": "MAZDA",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "34": {
+            "label": "McLaren",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "33": {
+            "label": "Mercedes-Benz",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "32": {
+            "label": "MINI",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "31": {
+            "label": "Mitsubishi",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "30": {
+            "label": "Nissan",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "29": {
+            "label": "Porsche",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "28": {
+            "label": "Ram",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "44": {
+            "label": "Rivian",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "43": {
+            "label": "Rolls-Royce",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "42": {
+            "label": "Smart",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "41": {
+            "label": "Subaru",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "40": {
+            "label": "Tesla",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "39": {
+            "label": "Toyota",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "38": {
+            "label": "Volkswagen",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "37": {
+            "label": "Volvo",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "description": "",
+        "required": "1",
+        "style": "classic",
+        "size": "large",
+        "placeholder": "CAR MAKE",
+        "dynamic_choices": "",
+        "css": "wpforms-one-half wpforms-first",
+        "label_hide": "1"
+      },
+      "8": {
+        "id": "8",
+        "type": "text",
+        "label": "CAR MODEL",
+        "description": "",
+        "required": "1",
+        "size": "large",
+        "placeholder": "CAR MODEL",
+        "limit_count": "1",
+        "limit_mode": "characters",
+        "default_value": "",
+        "input_mask": "",
+        "css": "wpforms-one-half",
+        "label_hide": "1",
+        "map_position": "above"
+      },
+      "22": {
+        "id": "22",
+        "type": "number-slider",
+        "label": "CAR MILEAGE",
+        "description": "",
+        "required": "",
+        "min": "1000",
+        "max": "146000",
+        "size": "medium",
+        "default_value": "1000",
+        "value_display": "Selected Value: {value}",
+        "step": "1000",
+        "css": "wpforms-one-half"
+      },
+      "3": {
+        "id": "3",
+        "type": "text",
+        "label": "FIRST NAME",
+        "description": "",
+        "required": "1",
+        "size": "large",
+        "placeholder": "FIRST NAME",
+        "limit_count": "1",
+        "limit_mode": "characters",
+        "default_value": "",
+        "input_mask": "",
+        "css": "wpforms-one-half wpforms-first",
+        "label_hide": "1",
+        "map_position": "above"
+      },
+      "4": {
+        "id": "4",
+        "type": "text",
+        "label": "LAST NAME",
+        "description": "",
+        "required": "1",
+        "size": "large",
+        "placeholder": "LAST NAME",
+        "limit_count": "1",
+        "limit_mode": "characters",
+        "default_value": "",
+        "input_mask": "",
+        "css": "wpforms-one-half",
+        "label_hide": "1",
+        "map_position": "above"
+      },
+      "5": {
+        "id": "5",
+        "type": "email",
+        "label": "Email",
+        "description": "",
+        "required": "1",
+        "size": "large",
+        "placeholder": "EMAIL ADDRESS",
+        "confirmation_placeholder": "",
+        "default_value": false,
+        "filter_type": "",
+        "allowlist": "",
+        "denylist": "",
+        "css": "wpforms-one-half wpforms-first",
+        "label_hide": "1"
+      },
+      "24": {
+        "id": "24",
+        "type": "phone",
+        "label": "Phone",
+        "format": "us",
+        "description": "",
+        "required": "1",
+        "size": "large",
+        "placeholder": "PHONE",
+        "default_value": "",
+        "css": "",
+        "label_hide": "1"
+      },
+      "25": {
+        "id": "25",
+        "type": "select",
+        "label": "States",
+        "choices": {
+          "1": {
+            "label": "States",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "2": {
+            "label": "AL",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "3": {
+            "label": "AK",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "4": {
+            "label": "AZ",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "5": {
+            "label": "AR",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "7": {
+            "label": "CO",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "8": {
+            "label": "CT",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "9": {
+            "label": "DE",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "10": {
+            "label": "FL",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "11": {
+            "label": "GA",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "12": {
+            "label": "HI",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "13": {
+            "label": "ID",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "15": {
+            "label": "IL",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "22": {
+            "label": "IN",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "21": {
+            "label": "IA",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "20": {
+            "label": "KS",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "19": {
+            "label": "KY",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "18": {
+            "label": "LA",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "17": {
+            "label": "ME",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "53": {
+            "label": "MD",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "16": {
+            "label": "MA",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "33": {
+            "label": "MN",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "32": {
+            "label": "MS",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "31": {
+            "label": "MO",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "30": {
+            "label": "MT",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "29": {
+            "label": "NE",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "28": {
+            "label": "NV",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "27": {
+            "label": "NH",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "26": {
+            "label": "NJ",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "25": {
+            "label": "NM",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "24": {
+            "label": "NY",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "23": {
+            "label": "NC",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "36": {
+            "label": "ND",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "35": {
+            "label": "OH",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "40": {
+            "label": "OK",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "39": {
+            "label": "OR",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "38": {
+            "label": "PA",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "54": {
+            "label": "PR",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "37": {
+            "label": "RI",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "42": {
+            "label": "SC",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "41": {
+            "label": "SD",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "34": {
+            "label": "TN",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "45": {
+            "label": "TX",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "44": {
+            "label": "UT",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "43": {
+            "label": "VT",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "49": {
+            "label": "VA",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "48": {
+            "label": "WA",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "47": {
+            "label": "WV",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "46": {
+            "label": "WI",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          },
+          "52": {
+            "label": "WY",
+            "value": "",
+            "image": "",
+            "icon": "face-smile",
+            "icon_style": "regular"
+          }
+        },
+        "description": "",
+        "style": "classic",
+        "size": "medium",
+        "placeholder": "",
+        "dynamic_choices": "",
+        "css": "wpforms-one-half wpforms-first",
+        "label_hide": "1"
+      },
+      "21": {
+        "id": "21",
+        "type": "text",
+        "label": "Zip Code",
+        "description": "",
+        "required": "1",
+        "size": "medium",
+        "placeholder": "Zip Code",
+        "limit_count": "1",
+        "limit_mode": "characters",
+        "default_value": "",
+        "input_mask": "",
+        "css": "wpforms-one-half",
+        "label_hide": "1",
+        "map_position": "above"
+      },
+      "15": {
+        "id": "15",
+        "type": "hidden",
+        "label": "Lead",
+        "label_disable": "1",
+        "default_value": "AD Web Quote Lead home",
+        "css": ""
+      }
+    },
+    "id": "15978",
+    "field_id": 32,
+    "settings": {
+      "form_title": "AD Free Quote Lead Home",
+      "form_desc": "",
+      "submit_text": "SUBMIT NOW",
+      "submit_text_processing": "Sending...",
+      "form_class": "homepageform",
+      "submit_class": "",
+      "ajax_submit": "1",
+      "notification_enable": "1",
+      "notifications": {
+        "1": {
+          "notification_name": "Default Notification",
+          "email": "moshe@projectoneproducts.com, info@americandreamautoprotect.com",
+          "subject": "New Entry: Lead Quote [American Dream]",
+          "sender_name": "{field_id=\"3\"}",
+          "sender_address": "{field_id=\"5\"}",
+          "replyto": "{field_id=\"5\"}",
+          "message": "{all_fields}",
+          "file_upload_attachment_fields": [],
+          "entry_csv_attachment_entry_information": [],
+          "entry_csv_attachment_file_name": "entry-details"
+        }
+      },
+      "confirmations": {
+        "1": {
+          "name": "Default Confirmation",
+          "type": "redirect",
+          "message": "<p>Thanks for contacting us! We will be in touch with you shortly.</p>",
+          "message_scroll": "1",
+          "page": "1711",
+          "redirect": "http://3.95.186.145/call-now/",
+          "message_entry_preview_style": "basic"
+        }
+      },
+      "antispam": "1",
+      "anti_spam": {
+        "country_filter": {
+          "action": "allow",
+          "country_codes": [],
+          "message": "Sorry, this form does not accept submissions from your country."
+        },
+        "keyword_filter": {
+          "message": "Sorry, your message can't be submitted because it contains prohibited words."
+        }
+      },
+      "webhooks": [],
+      "form_tags": []
+    },
+    "meta": { "template": "4dbf022985a4fe4bda4a80365011a3a0" },
+    "providers": {
+      "salesforce": {
+        "17f93dcaa39": {
+          "id": "17f93dcaa39",
+          "name": "Add New Lead",
+          "account_id": "0058c00000AEUfCAAX",
+          "object": "Lead",
+          "fields_required": [{ "name": "Name", "field_id": 3 }],
+          "fields_meta": [
+            { "name": "Title", "field_id": 4 },
+            { "name": "Email", "field_id": 5 },
+            { "name": "Phone", "field_id": 24 },
+            { "name": "Car_Make__c", "field_id": 7 },
+            { "name": "Car_Model__c", "field_id": 8 },
+            { "name": "Car_Year__c", "field_id": 10 },
+            { "name": "Car_Mileage__c", "field_id": 22 },
+            { "name": "LeadSource", "field_id": 15 },
+            { "name": "Billing_Zip__c", "field_id": 21 },
+            { "name": "Title", "field_id": 25 }
+          ]
+        }
+      }
+    }
+  }
+]
